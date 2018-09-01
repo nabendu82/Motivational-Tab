@@ -1,8 +1,8 @@
-# Blur Tab
+# Motivational Tab
 
 ## What it does
 
-Opens a random blur image from unsplash in a new tab. There is a nice slider to un-blur the image and see it.
+Opens 5 cool images, which gives a motivation quote. On clicking on each image, shows 5 more quotes with cool animation.
 
 
 
